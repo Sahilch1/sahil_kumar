@@ -27,11 +27,11 @@
 
 ## 🎯 Interests
 
+- ✅ Data Science & Analytics
 - ✅ Embedded & IoT Applications  
 - ✅ RTL Design & FPGA-based Systems  
 - ✅ CMOS Low-Power Design  
-- ✅ Data Science & Analytics  
-
+  
 ---
 
 ## 💬 Let’s Talk About
