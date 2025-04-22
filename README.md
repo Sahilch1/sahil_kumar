@@ -20,7 +20,7 @@
 
 🖥️ <strong>Languages:</strong> Python | C++ | MATLAB | VHDL  
 📡 <strong>Embedded & Boards:</strong> ESP32 | Arduino | DE10-Lite FPGA | Keil | Quartus Prime  
-📊 <strong>Data Tools:</strong> Pandas | Excel | MySQL | Google Colab | Power BI  
+📊 <strong>Data Tools:</strong> Numpy | Pandas | Matplotlib | Scikit Learn | Excel | MySQL | Google Colab | Power BI  
 📐 <strong>EDA & Simulation:</strong> Microwind | DSCH | MULTISIM | WinSpice | AutoCAD | CST Studio  
 
 ---
@@ -30,7 +30,6 @@
 - ✅ Embedded & IoT Applications  
 - ✅ RTL Design & FPGA-based Systems  
 - ✅ CMOS Low-Power Design  
-- ✅ AI for Hardware Optimization  
 - ✅ Data Science & Analytics  
 
 ---
@@ -40,8 +39,7 @@
 - 🧠 VHDL & Digital Logic Design  
 - 📊 Real-Time Data Analysis  
 - 🛠️ Embedded Firmware Development  
-- ⚡ Low-Power Circuit Architectures  
-- 📲 Mobile App Integration with IoT  
+- ⚡ Low-Power Circuit Architectures    
 
 ---
 
