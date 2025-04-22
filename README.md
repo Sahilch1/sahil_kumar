@@ -1,56 +1,59 @@
-# 👋 Hi, I'm Sahil Kumar
-
-🎓 B.Tech Electronics & Communication (IoT) @ IIIT Nagpur  
-🏆 Smart India Hackathon 2024 Winner | 📊 Data Analyst | 💡 Embedded Systems & VLSI Enthusiast  
-🔗 LinkedIn: [sahil9480](http://linkedin.com/in/sahil9480)
-
----
-
-## 🚀 Projects I've Worked On
-
-🧼 Washing Machine Controller using VHDL & DE10 FPGA  
-📊 E-Commerce Data Analysis using Python (Pandas, Plotly)  
-📱 JalTarang – AI + IoT-based Mobile App for Water Quality Monitoring  
-🔌 Low-Power CMOS Schmitt Trigger Design using Microwind & DSCH
+<h1 align="center">👋 Hi, I'm Sahil Kumar</h1>
+<p align="center">
+🎓 B.Tech in Electronics & Communication Engineering (IoT) | IIIT Nagpur  
+🏆 Winner - Smart India Hackathon 2024  
+🔧 Embedded Systems | 💻 VLSI Design | 📊 Data Analysis | 🤖 AI-Driven Innovation  
+</p>
 
 ---
 
-## 🛠️ Skills & Tools
+## 🚀 Projects Highlights
 
-**Programming Languages:**  
-Python, MATLAB, C++ (basic), VHDL  
-
-**Hardware & Tools:**  
-ESP32, Arduino, DE10-Lite FPGA, Keil, Quartus, WinSpice, MULTISIM, DSCH, MicroWind, AutoCAD, CST Studio Suite, Power BI, MySQL, Google Colab, Excel  
-
-**Soft Skills:**  
-Team Collaboration, Data Analysis, Project Management, Creativity, Leadership
+- 🧼 <strong>Washing Machine Controller</strong> – Designed using VHDL on DE10 FPGA board & Quartus  
+- 📈 <strong>E-Commerce Data Analysis</strong> – Built insights using Python (Pandas, Plotly), Excel & Colab  
+- 💧 <strong>JalTarang</strong> – AI & IoT based Mobile App for Real-Time Water Quality Monitoring  
+- 🔌 <strong>Low-Power CMOS Schmitt Trigger</strong> – Modeled using Microwind & DSCH tools  
 
 ---
 
-## 🔍 Interests
+## 🛠️ Tech Stack & Tools
 
-- Embedded Systems & IoT-based Applications  
-- FPGA & RTL Design (VHDL, Verilog)  
-- CMOS Low-Power Circuit Design  
-- AI Integration with Hardware Systems  
-- Data Analytics & Visualization  
-
----
-
-## 💬 Ask Me About
-
-- Real-time Embedded Design  
-- Data Analysis with Python  
-- VHDL-based Digital Design  
-- Low-power CMOS Techniques  
-- IoT-driven Mobile App Development
+🖥️ <strong>Languages:</strong> Python | C++ | MATLAB | VHDL  
+📡 <strong>Embedded & Boards:</strong> ESP32 | Arduino | DE10-Lite FPGA | Keil | Quartus Prime  
+📊 <strong>Data Tools:</strong> Pandas | Excel | MySQL | Google Colab | Power BI  
+📐 <strong>EDA & Simulation:</strong> Microwind | DSCH | MULTISIM | WinSpice | AutoCAD | CST Studio  
+🎨 <strong>Design & UI/UX:</strong> Canva | Figma
 
 ---
 
-## 📄 Resume & Portfolio
+## 🎯 Interests
 
-📄 View my [Resume](https://yourwebsite.com/)  
-💼 Explore my GitHub repositories for more!
+- ✅ Embedded & IoT Applications  
+- ✅ RTL Design & FPGA-based Systems  
+- ✅ CMOS Low-Power Design  
+- ✅ AI for Hardware Optimization  
+- ✅ Data Science & Analytics  
 
 ---
+
+## 💬 Let’s Talk About
+
+- 🧠 VHDL & Digital Logic Design  
+- 📊 Real-Time Data Analysis  
+- 🛠️ Embedded Firmware Development  
+- ⚡ Low-Power Circuit Architectures  
+- 📲 Mobile App Integration with IoT  
+
+---
+
+## 📂 Resume & Portfolio
+
+📄 <strong>Resume:</strong> [View Resume](https://your-link.com)  
+🌐 <strong>GitHub:</strong> Explore my repositories & contributions!  
+🔗 <strong>LinkedIn:</strong> [sahil9480](https://linkedin.com/in/sahil9480)
+
+---
+
+<p align="center">
+✨ Passionate about building impactful tech that bridges hardware and intelligence. Let's connect! 🤝
+</p>
