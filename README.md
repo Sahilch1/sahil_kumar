@@ -10,7 +10,7 @@
 ## 🚀 Projects Highlights
 
 - 🧼 <strong>Washing Machine Controller</strong> – Designed using VHDL on DE10 FPGA board & Quartus  
-- 📈 <strong>E-Commerce Data Analysis</strong> – Built insights using Python (Pandas, Plotly), Excel & Colab  
+- 📈 <strong>Smarter Retail: Uncovering E-Commerce Insights with Pandas & Plotly</strong> – Built insights using Python (Pandas, Plotly), Excel & Colab  
 - 💧 <strong>JalTarang</strong> – AI & IoT based Mobile App for Real-Time Water Quality Monitoring  
 - 🔌 <strong>Low-Power CMOS Schmitt Trigger</strong> – Modeled using Microwind & DSCH tools  
 
