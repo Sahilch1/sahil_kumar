@@ -22,7 +22,6 @@
 📡 <strong>Embedded & Boards:</strong> ESP32 | Arduino | DE10-Lite FPGA | Keil | Quartus Prime  
 📊 <strong>Data Tools:</strong> Pandas | Excel | MySQL | Google Colab | Power BI  
 📐 <strong>EDA & Simulation:</strong> Microwind | DSCH | MULTISIM | WinSpice | AutoCAD | CST Studio  
-🎨 <strong>Design & UI/UX:</strong> Canva | Figma
 
 ---
 
