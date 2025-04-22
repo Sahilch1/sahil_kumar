@@ -21,7 +21,7 @@
 🖥️ <strong>Languages:</strong> Python | C++ | MATLAB | VHDL  
 📡 <strong>Embedded & Boards:</strong> ESP32 | Arduino | DE10-Lite FPGA | Keil | Quartus Prime  
 📊 <strong>Data Tools:</strong> Numpy | Pandas | Matplotlib | Scikit Learn | Excel | MySQL | Google Colab | Power BI  
-📐 <strong>EDA & Simulation:</strong> Microwind | DSCH | MULTISIM | WinSpice | AutoCAD | CST Studio  
+📐 <strong>EDA & Simulation:</strong> Microwind | DSCH | MULTISIM | WinSpice | AutoCAD | CST Studio | VirtualNano Lab
 
 ---
 
